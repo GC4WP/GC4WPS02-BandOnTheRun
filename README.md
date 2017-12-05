@@ -5,6 +5,15 @@ GC4WP Season 2 Group BandOnTheRun
 
 为小组成员固定讨论和提交作业地方
 
+## 小组成员
+
+- 31-雅克布—山东
+- 56-Xerin-厦门
+- 69-醉舟-无锡 （组长）
+- 111-欢喜-深圳
+- 379-jing-上海
+
+
 ## 提交作业
 - 提交作业的仓库 https://github.com/GC4WP/GC4WPS02-BandOnTheRun
 - 组长批量构建好仓库+作业目录+作业文件
