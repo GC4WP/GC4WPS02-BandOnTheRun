@@ -1,9 +1,8 @@
-# GC4WPS02-BandOnTheRun
+# GC4WPS02-Sword-Stars
 
-好中文第二期 学习小组
-GC4WP Season 2 Group BandOnTheRun
-
-为小组成员固定讨论和提交作业地方
+- 好中文第二期 学习小组 刀与星辰
+- GC4WP Season 2 Group Sword-Stars
+- 此为小组成员固定讨论和提交作业的地方
 
 ## 小组成员
 
