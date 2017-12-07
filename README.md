@@ -12,17 +12,17 @@
 - 111-欢喜-深圳
 - 379-jing-上海
 
-
 ## 提交作业
 - 提交作业的仓库 https://github.com/GC4WP/GC4WPS02-BandOnTheRun
 - 组长批量构建好仓库+作业目录+作业文件
   - L01E01
-  - L02E02
+  - L02E05
+  - L03E03
 
 
 ## 讨论作业
 
-- 讨论地址  https://github.com/GC4WP/GC4WPS02-BandOnTheRun/issues
+- [讨论地址](https://github.com/GC4WP/GC4WPS02-BandOnTheRun/issues)
 - issue 是支持 markdown 的全功能小组BBS --> [demo[L02]翻译奶](https://github.com/GC4WP/common/issues/18)
 - 配置:
     + 每期作业有对应 mailstone
@@ -46,8 +46,9 @@
 
 
 ## 参考文档
-- [基于 Issue 写作协同]https://github.com/GC4WP/common/issues/19
-
+- [基于 Issue 写作协同](https://github.com/GC4WP/common/issues/19)
+- [GitHub 等协同写作工具说明](https://github.com/GC4WP/S07E15G89/issues/2)
+- [[规约]组内协同规则](https://github.com/GC4WP/S07E15G89/issues/1)
 
 ## 变更
 ~ 记录合并学员建议/增补的主要变动信息
