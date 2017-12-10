@@ -6,11 +6,11 @@
 
 ## 小组成员
 
-- 31-雅克布—山东
-- 56-Xerin-厦门
-- 69-醉舟-无锡 （组长）
-- 111-欢喜-深圳
-- 379-jing-上海
+- 31-雅克布—山东_jacobspf
+- 56-Xerin-厦门_xerinxie
+- 69-醉舟-无锡_hansoluo （组长）
+- 111-欢喜-深圳_huanxi007
+- 379-jing-上海_zhengzhengjingjing
 
 ## 组内协作流程规则
 
